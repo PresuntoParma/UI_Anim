@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 214814806}
   - component: {fileID: 214814808}
   - component: {fileID: 214814807}
+  - component: {fileID: 214814809}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -198,6 +199,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 214814805}
   m_CullTransparentMesh: 1
+--- !u!114 &214814809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 214814805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7eebee7af58a444a88749055be54a33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  finalScale: 1.25
+  scaleDuration: 0.05
 --- !u!1 &356846966
 GameObject:
   m_ObjectHideFlags: 0
@@ -334,6 +349,7 @@ GameObject:
   - component: {fileID: 515275974}
   - component: {fileID: 515275976}
   - component: {fileID: 515275975}
+  - component: {fileID: 515275977}
   m_Layer: 5
   m_Name: Image (1)
   m_TagString: Untagged
@@ -398,6 +414,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 515275973}
   m_CullTransparentMesh: 1
+--- !u!114 &515275977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 515275973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7eebee7af58a444a88749055be54a33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  finalScale: 1.25
+  scaleDuration: 0.05
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -501,6 +531,7 @@ GameObject:
   - component: {fileID: 598076283}
   - component: {fileID: 598076285}
   - component: {fileID: 598076284}
+  - component: {fileID: 598076286}
   m_Layer: 5
   m_Name: Image (2)
   m_TagString: Untagged
@@ -565,6 +596,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 598076282}
   m_CullTransparentMesh: 1
+--- !u!114 &598076286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 598076282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7eebee7af58a444a88749055be54a33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  finalScale: 1.25
+  scaleDuration: 0.05
 --- !u!1 &933834457
 GameObject:
   m_ObjectHideFlags: 0
@@ -709,6 +754,7 @@ GameObject:
   - component: {fileID: 1490634241}
   - component: {fileID: 1490634243}
   - component: {fileID: 1490634242}
+  - component: {fileID: 1490634244}
   m_Layer: 5
   m_Name: Image (4)
   m_TagString: Untagged
@@ -773,6 +819,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1490634240}
   m_CullTransparentMesh: 1
+--- !u!114 &1490634244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1490634240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7eebee7af58a444a88749055be54a33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  finalScale: 1.25
+  scaleDuration: 0.05
 --- !u!1 &1872402597
 GameObject:
   m_ObjectHideFlags: 0
@@ -784,6 +844,7 @@ GameObject:
   - component: {fileID: 1872402598}
   - component: {fileID: 1872402600}
   - component: {fileID: 1872402599}
+  - component: {fileID: 1872402601}
   m_Layer: 5
   m_Name: Image (3)
   m_TagString: Untagged
@@ -848,6 +909,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1872402597}
   m_CullTransparentMesh: 1
+--- !u!114 &1872402601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1872402597}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7eebee7af58a444a88749055be54a33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  finalScale: 1.25
+  scaleDuration: 0.05
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
